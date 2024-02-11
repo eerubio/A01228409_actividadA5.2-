@@ -1,0 +1,27 @@
++--------------------------------+--------------------------------+--------------------------------+
+|            Product             |            Quantity            |        Total Unit Cost         |
++--------------------------------+--------------------------------+--------------------------------+
+|               Rustic breakfast |                              3 |                         $63.96 |
+|            Sandwich with salad |                              5 |                        $112.40 |
+|                     Raw legums |                             21 |                        $359.31 |
+|                Fresh stawberry |                              5 |                        $142.95 |
+|                    Pears juice |                              3 |                         $58.47 |
+|                 Green smoothie |                             22 |                        $388.96 |
+|                Cuban sandwiche |                             11 |                        $203.50 |
+| Hazelnut in black ceramic bowl |                              7 |                        $191.45 |
+|                       Tomatoes |                              2 |                         $52.06 |
+|                          Plums |                              4 |                         $76.72 |
+|              Fresh blueberries |                              7 |                        $147.07 |
+|                           Corn |                             19 |                        $257.45 |
+|                   French fries |                              3 |                         $54.96 |
+|        Ground beef meat burger |                              4 |                         $46.92 |
+|                         Cherry |                              4 |                         $57.40 |
+|                 Homemade bread |                              6 |                        $104.88 |
+|       Smoothie with chia seeds |                              3 |                         $75.78 |
+|              Peaches on branch |                              2 |                         $51.24 |
+|               Pesto with basil |                              2 |                         $36.38 |
++--------------------------------+--------------------------------+--------------------------------+
+| Total Cost of Sales            |                            133 |                       $2481.86 |
++--------------------------------+--------------------------------+--------------------------------+
+| Time Elapsed                   |               0.000483 seconds | xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |
++--------------------------------+--------------------------------+--------------------------------+
